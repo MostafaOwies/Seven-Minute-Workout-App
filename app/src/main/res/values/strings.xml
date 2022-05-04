@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">7 min Workout</string>
+    <string name="start">START</string>
+    <string name="image">Start up Image</string>
+    <string name="get_ready">Get Ready for</string>
+    <string name="exercise">Exercise</string>
+    <string name="exercise_image">Image of the desired exercise</string>
+    <string name="_30">30</string>
+    <string name="_10">10</string>
+    <string name="end">END</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="you_finished_your_exercises">You finished your exercises</string>
+    <string name="finish">Finish</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="are_you_sure">Are you Sure?</string>
+    <string name="exit_and_stop_exercising">Exit and stop exercising:</string>
+    <string name="bmi">BMI</string>
+    <string name="Calculator">Calculator</string>
+    <string name="label">Height(in cm)</string>
+    <string name="label2">Weight(in kg)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="your_bmi">Your BMI :</string>
+    <string name="_30_24">30.24</string>
+    <string name="obesity">Obesity</string>
+    <string name="metric_system">Metric System</string>
+    <string name="us_system">US System</string>
+    <string name="foot">Foot</string>
+    <string name="inch">Inch</string>
+    <string name="weight_in_pound">Weight (in pound)</string>
+    <string name="History">History</string>
+    <string name="_3_5_2022_11_30_20">3/5/2022 11:30:20</string>
+</resources>
